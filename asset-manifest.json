@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f346d12f.css",
-    "main.js": "/static/js/main.b34093d9.js",
-    "static/js/787.3144afd5.chunk.js": "/static/js/787.3144afd5.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
-    "index.html": "/index.html",
-    "main.f346d12f.css.map": "/static/css/main.f346d12f.css.map",
-    "main.b34093d9.js.map": "/static/js/main.b34093d9.js.map",
-    "787.3144afd5.chunk.js.map": "/static/js/787.3144afd5.chunk.js.map"
+    "main.css": "/react-theme-change/static/css/main.fae6fd30.css",
+    "main.js": "/react-theme-change/static/js/main.15755813.js",
+    "static/js/787.3144afd5.chunk.js": "/react-theme-change/static/js/787.3144afd5.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-theme-change/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-theme-change/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/react-theme-change/index.html",
+    "main.fae6fd30.css.map": "/react-theme-change/static/css/main.fae6fd30.css.map",
+    "main.15755813.js.map": "/react-theme-change/static/js/main.15755813.js.map",
+    "787.3144afd5.chunk.js.map": "/react-theme-change/static/js/787.3144afd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f346d12f.css",
-    "static/js/main.b34093d9.js"
+    "static/css/main.fae6fd30.css",
+    "static/js/main.15755813.js"
   ]
 }
